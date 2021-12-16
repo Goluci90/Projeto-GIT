@@ -1,2 +1,3 @@
 Inicio Login Luciano 02
+Validação do email do usuario.
 Final Login  Luciano 02
