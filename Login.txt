@@ -1,3 +1,8 @@
 Inicio Login Luciano 02
+<<<<<<< HEAD
 Final Login  Luciano 02
 Alteração de texto teste 03
+=======
+Validação do email do usuario Luciano 02
+Final Login  Luciano 02
+>>>>>>> c73e88c525ac0f671486d8f2d1a5fa3e38201d0e
